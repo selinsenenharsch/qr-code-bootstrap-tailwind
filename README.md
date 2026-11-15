@@ -1,13 +1,14 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR Code Component (Refactored)
 
-A simple, responsive QR code component built with HTML and CSS.
+This is a refactored solution to the **QR Code component challenge on Frontend Mentor**, built to practice and combine two major design systems.
 
-## Built with
-- Semantic HTML5
-- CSS Flexbox & Media Queries
-- Google Fonts (Outfit)
+## Built With
+* Semantic HTML5 markup
+* Bootstrap 5 (for layout containers and card structural components)
+* Tailwind CSS v4 (via browser CDN for utility-first styling and polish)
+* Custom color tokens matching the official Frontend Mentor design specs
 
-## Author
-- GitHub - [@selinsenenharsch](https://github.com/selinsenenharsch)
-
-
+## What I Learned
+* How to integrate and leverage both Bootstrap and Tailwind in a single project.
+* Managing responsive component widths and typography.
+* Version control workflows using Git and GitHub.
